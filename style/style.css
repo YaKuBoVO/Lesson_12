@@ -27,9 +27,9 @@ p {
 /* START HEADER */
 
 #hero {
-   width: 1200px;
-   height: 700px;
-   margin-top: 51px;
+   width: 100%;
+   /*height: 700px;*/
+   margin-top: 30px;
 }
 
 .navbar-title {
@@ -47,6 +47,7 @@ p {
 
 .nav-list {
    list-style: none;
+   margin-top: 40px;
    margin-bottom: 50px;
 }
 
@@ -66,22 +67,17 @@ p {
    background: #F25822;
    border-radius: 30px;
 }
+/* THE END HEADER */
 
-/*#market {
-}*/
-
-.marketing {
-   display: flex;
-   justify-content: space-around;
-   align-items: center;
+/* START MARKETING */
+#site-market {
+   width: 100%;
+   margin-bottom: 99px;
 }
-
 .marketing-content {
-   margin-left: 95px;
+   margin-left: 180px;
 }
 .marketing-title {
-   width: 520px;
-   height: 222px;
    font-family: 'Gilroy-Bold';
    font-size: 60px;
    line-height: 70px;
@@ -89,33 +85,75 @@ p {
    margin-bottom: 17px;
 }
 .marketing-text {
-   width: 466px;
-   height: 48px;
+   font-family: 'Gilroy-Medium';
    font-size: 20px;
    line-height: 23px;
    color: #888888;
-   margin-bottom: 47px;
+   margin-bottom: 37px;
 }
-.batton {
-   display: inline-flex;
-   align-items: center;
+.marketing-list {
+   list-style: none;
+}
+.marketing-item {
+   margin-right: 15px;
 }
 .btns {
    width: 140px;
    height: 50px;
-   margin-right: 22px;
    border: 1px solid #F25822;
    background: #F25822;
    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
    border-radius: 50px;
 }
-.img-icon {
-   margin-right: 15px;
+/* THE END MARKETING */
+
+/* START LOGO */
+#site-logo {
+   width: 100%;
+   margin-bottom: 70px;
+}
+.logo-list {
+   list-style: none;
+}
+.logo-item {
+   margin-right: 48px;
+}
+/* THE END LOGO */
+
+/* START BUSINESS */
+#your-business {
+   width: 100%;
+   height: 540px;
+   
+   /*margin-left: 130px;*/
+}
+.business-content {
+   margin: 0 auto;
+}
+.business-title {
+   width: 409px;
+   height: 112px;
+   font-family: 'Gilroy-Bold';
+   font-size: 45px;
+   line-height: 53px;
+   color: #000;
+   margin-bottom: 20px;
+}
+.business-text {
+   width: 415px;
+   height: 72px;
+   font-family: 'Gilroy-Regular';
+   font-size: 16px;
+   line-height: 150%;
+   color: #666666;
+   margin-bottom: 45px;
+}
+.butt {
+   width: 140px;
+   height: 50px;
+   border: 1px solid #F25822;
+   background: #F25822;
+   box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+   border-radius: 50px;
 }
 
-.img-text {
-   font-family: 'Gilroy-Bold';
-   font-size: 15px;
-   line-height: 18px;
-   color: #AAAAAA;
-}
