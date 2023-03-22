@@ -156,4 +156,704 @@ p {
    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
    border-radius: 50px;
 }
+#grow-business {
+   height: 491px;
+}
+.drive-business {
+   margin-left: 40px;
+}
+.business-icon {
+   margin-bottom: 25px;
+   margin-left: 10px;
+}
+.your-business-title {
+   width: 190px;
+   font-size: 24px;
+   line-height: 28px;
+   color: #000000;
+   margin-bottom: 18px;
+   margin-left: 15px;
+}
+.your-business-text {
+   width: 310px;
+   height: 42px;
+   font-size: 15px;
+   line-height: 150%;
+   color: #666666;
+   margin-bottom: 25px;
+   margin-left: 15px;
+}
+.your-business-text1 {
+   width: 64px;
+   height: 17px;
+   font-family: 'Gilroy-Bold';
+   font-size: 11px;
+   line-height: 150%;
+   color: #000000;
+   margin-left: 15px;
+}
+.steerel-business {
+   width: 370px;
+   height: 291px;
+   margin-top: 65px;
+   background: #FFFFFF;
+   box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
+}
+/* THE END BUSINESS */
 
+/* START MARKETING-RESERVATION */
+#marketing-reservation {
+   width: 100%;
+   height: 919px;
+   background: #FAFAFA;
+   padding-top: 96px;
+}
+.title {
+   font-family: 'Gilroy-Bold';
+   font-size: 45px;
+   line-height: 53px;
+   color: #000000;
+   margin-bottom: 20px;
+}
+.text {
+   width: 682px;
+   height: 48px;
+   font-family: 'Gilroy-Regular';
+   font-size: 16px;
+   line-height: 150%;
+   text-align: center;
+   color: #666666;
+   margin-left: 85px;
+   margin-bottom: 54px;
+}
+.marketing-keyword {
+   width: 370px;
+   height: 549px;
+}
+.keyword-title {
+   height: 30px;
+   margin-bottom: 22px;
+}
+.keyword-text {
+   width: 310px;
+   height: 63px;
+   font-family: 'Gilroy-Regular';
+   font-size: 15px;
+   line-height: 150%;
+   text-align: center;
+   color: #AAAAAA;
+   margin-bottom: 39px;
+}
+.keyword-btn {
+   width: 150px;
+   height: 50px;
+   border: 1px solid #F25822;
+   background: #F25822;
+   box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+   border-radius: 50px;
+   text-align: center;
+}
+.marketing-seo {
+   width: 370px;
+   height: 549px;
+   background: #FFFFFF;
+   box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.1);
+}
+.marketing-social {
+   width: 370px;
+   height: 549px;
+}
+/* THE EHD MARKETING-RESERVATION */
+
+/* START PARTNER-MARKETING */
+#partners {
+   width: 100%;
+   height: 800px;
+   margin-bottom: 123px;
+}
+
+.clock-content {
+   margin-top: 110px;
+}
+.clock-title {
+   width: 550px;
+   height: 112px;
+   font-family: 'Gilroy-Bold';
+   font-size: 45px;
+   line-height: 53px;
+   color: #000000;
+   margin-bottom: 20px;
+}
+.clock-text {
+  width: 570px;
+  height: 41px; 
+  font-family: 'Gilroy-Regular';
+   font-size: 16px;
+   line-height: 150%;
+   color: #666666;
+   margin-bottom: 86px;
+}
+.partner-links {
+   margin-bottom: 50px;
+}
+.partner-title {
+   width: 219px;
+   height: 30px;
+   font-family: 'Gilroy-Bold';
+   font-size: 20px;
+   line-height: 150%;
+   color: #000000;
+   margin-bottom: 8px;
+}
+.partner-text {
+   width: 362px;
+   height: 46px;
+   font-family: 'Gilroy-Regular';
+   font-size: 15px;
+   line-height: 150%;
+   color: #666666;
+}
+
+.link-logo {
+   margin-right: 25px;
+}
+.partner-email {
+   width: 570px;
+   height: 134px;
+   background: #FFFFFF;
+   box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.1);
+   margin-bottom: 50px;
+}
+/* THE END PARTNER-MARKETING */
+
+/* START NOMBER */
+#nomber {
+   width: 1000px;
+   height: 200px;
+   border: 2px solid #EEEEEE;
+   margin-left: 110px;
+   margin-bottom: 100px;
+}
+.nomber-content {
+   margin-top: 35px;
+}
+.nomber-list {
+   list-style: none;
+}
+.nomber-item {
+   font-family: 'Gilroy-Bold';
+   font-size: 70px;
+   line-height: 150%;
+   color: #666666;
+   margin-left: 15px;
+}
+.nomber-text {
+   font-family: 'Gilroy-SemiBold';
+   font-size: 18px;
+   line-height: 150%;
+   color: #666666;
+}
+/* THE END NOMBER */
+
+/* START WEBSITE */
+#website {
+   height: 600px;
+}
+.website-content {
+   margin-left: 100px;
+}
+
+.website-title {
+   width: 563px;
+   height: 68px;
+   font-family: 'Gilroy-Bold';
+   font-size: 45px;
+   line-height: 150%;
+   color: #000000;
+   margin-bottom: 5px;
+}
+.website-text {
+   width: 458px;
+   height: 48px;
+   font-family: 'Gilroy-Regular';
+   font-size: 16px;
+   line-height: 150%;
+   color: #666666;
+   margin-bottom: 55px;
+}
+.btn-two {
+   width: 400px;
+   height: 50px;
+   border: 1px solid #EEEEEE;
+   background: #EEEEEE;
+   border-radius: 50px;
+}
+.btn-submit {
+   width: 160px;
+   height: 50px;
+   border: 1px solid #EEEEEE;
+   background: #F25822;
+   box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.25);
+   border-radius: 50px;
+}
+.span1 {
+   padding-right: 120px;
+   font-family: 'Gilroy-Medium';
+   font-size: 11px;
+   line-height: 150%;
+   color: #666666;
+}
+.span2 {
+   font-family: 'Gilroy-Medium';
+   font-size: 11px;
+   line-height: 150%;
+   color: #666666;
+}
+/* THE END WEBSITE */
+
+/* START PLANS */
+#our-plans {
+   height: 912px;
+   margin-bottom: 100px;
+}
+.content-plusn {
+   padding-top: 50px;
+}
+.plans-title {
+   height: 68px;
+   font-family: 'Gilroy-Bold';
+   font-size: 45px;
+   line-height: 150%;
+   color: #000000;
+   margin-bottom: 5px;
+   text-align: center;
+}
+.palans-text {
+   font-family: 'Gilroy-Regular';
+   font-size: 16px;
+   line-height: 150%;
+   color: #666666;
+   text-align: center;
+   margin-bottom: 35px;
+}
+.plus {
+   background: #FFFFFF;
+box-shadow: 15px 25px 70px -5px rgba(0, 0, 0, 0.07);
+}
+.beginer {
+   margin-top: 60px;
+}
+.advanced {
+   background: #FFFFFF;
+box-shadow: 15px 25px 70px -5px rgba(0, 0, 0, 0.07);
+}
+/* THE END PLUSN */
+
+/* START HUMANS*/
+#humans {
+   height: 697px;
+   padding-top: 86px;
+}
+
+.humans-title {
+   height: 68px;
+   font-family: 'Gilroy-Bold';
+   font-size: 45px;
+   line-height: 150%;
+   color: #000000;
+   margin-bottom: 15px;
+}
+.humans-title span {
+   text-align: center;
+}
+.humans-text {
+   height: 50px;
+   left: 730px;
+   top: 5669px;
+   font-family: 'Gilroy-Medium';
+   font-size: 16px;
+   line-height: 150%;
+   color: #666666;
+   margin-bottom: 52px;
+}
+
+.humans-list {
+   list-style: none;
+}
+
+.item-title {
+   height: 30px;
+   font-family: 'Gilroy-SemiBold';
+   font-size: 20px;
+   line-height: 150%;
+   color: #000000;
+   margin-bottom: 5px;
+}
+.item-text {
+   height: 20px;
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   margin-right: 15px;
+   color: #888888;
+   margin-bottom: 24px;
+}
+
+.logo {
+   width: 97px;
+   height: 20px;
+}
+.natasha {
+   width: 270px;
+   height: 331px;
+   border: 1px solid #EEEEEE;
+   padding-top: 45px;
+}
+.john-doe {
+   width: 270px;
+   height: 331px;
+   border: 1px solid #EEEEEE;
+   padding-top: 45px;
+}
+.haris-milas {
+   width: 270px;
+   height: 331px;
+   border: 1px solid #EEEEEE;
+   padding-top: 45px;
+}
+.nelson-mecoy {
+   width: 270px;
+   height: 331px;
+   border: 1px solid #EEEEEE;
+   padding-top: 45px;
+}
+/* THE END HUMANS */
+
+/* START CLIENTS */
+#clients {
+   width: 100%;
+   height: 684px;
+}
+
+.client-title {
+   height: 56px;
+   text-align: center;
+   font-size: 45px;
+   line-height: 53px;
+   color: #000000;
+   margin-bottom: 20px;
+}
+.client-text {
+   height: 48px;
+   font-family: 'Gilroy-Regular';
+   font-size: 16px;
+   line-height: 150%;
+   text-align: center;
+   color: #666666;
+   margin-bottom: 55px;
+}
+.span-text {
+   text-align: center;
+}
+.client-robin {
+   height: 271px;
+   border: 2px solid rgba(238, 238, 238, 0.5);
+}
+.robin-text {
+   width: 220px;
+   height: 91px;
+   margin-top:25px;
+   font-size: 12px;
+   line-height: 150%;
+   color: rgba(136, 136, 136, 0.3);
+   margin-bottom: 26px;
+}
+.rabith-img {
+   border-radius: 50%;
+   margin-left: 29px;
+}
+.rabith-text {
+   width: 84px;
+   height: 20px;
+   font-family: 'Gilroy-SemiBold';
+   font-size: 13px;
+   line-height: 150%;
+   color: rgba(0, 0, 0, 0.3);
+   margin-left: 18px;
+}
+.halson-text {
+   width: 73px;
+   height: 20px;
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   text-align: center;
+   color: rgba(136, 136, 136, 0.3);
+   margin-left: 23px;
+}
+.client-robin1 {
+   width: 500px;
+   height: 271px;
+   box-shadow: 15px 25px 60px -10px rgba(0, 0, 0, 0.1);
+}
+.robin-text1 {
+   width: 360px;
+   height: 91px;
+   margin-top: 25px;
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   text-align: center;
+   color: #888888;
+   margin-bottom: 26px;
+}
+.rabith-img1 {
+   border-radius: 50%;
+   margin-left: 170px;
+}
+.rabith-text1 {
+   width: 84px;
+   height: 20px;
+   font-family: 'Gilroy-SemiBold';
+   font-size: 13px;
+   line-height: 150%;
+   text-align: center;
+   color: #000000;
+}
+.halson-text1 {
+   width: 73px;
+   height: 20px;
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   text-align: center;
+   color: #888888;
+}
+.rabith-text1, .halson-text1 {
+   margin: 0 auto;
+}
+.client-selena {
+   width: 500px;
+   height: 271px;
+   border: 2px solid #EEEEEE;
+   padding-top: 25px;
+}
+.selena-text {
+   width: 360px;
+   height: 91px;
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   text-align: center;
+   color: #888888;
+   margin-bottom: 18px;
+}
+.selena-img {
+   border-radius: 50%;
+   margin-left: 170px;
+}
+.selena-title {
+   width: 67px;
+   height: 20px;
+   font-family: 'Gilroy-SemiBold';
+   font-size: 13px;
+   line-height: 150%;
+   text-align: center;
+   color: #000000;
+}
+.selen-text {
+   width: 68px;
+   height: 20px;
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   text-align: center;
+   color: #888888;
+}
+.selena-title, .selen-text {
+   margin: 0 auto;
+}
+.client-selena1 {
+   height: 271px;
+   border: 2px solid rgba(238, 238, 238, 0.5);
+}
+.selena-text1 {
+   width: 220px;
+   height: 91px;
+   padding-top: 8px;
+   white-space: pre;
+   font-family: 'Gilroy-Medium';
+   font-size: 12px;
+   line-height: 150%;
+   color: rgba(136, 136, 136, 0.3);
+   margin-bottom: 45px;
+}
+.selena-img1 {
+   border-radius: 50%;
+   margin-left: 115px;
+}
+.selena-title1 {
+   font-family: 'Gilroy-SemiBold';
+   font-size: 13px;
+   line-height: 150%;
+  margin-left: 110px;
+   color: rgba(0, 0, 0, 0.3);
+}
+.selen-text1 {
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   margin-left: 110px;
+   color: rgba(136, 136, 136, 0.3);
+}
+/* THE END CLIENTS */
+
+/* START NATEST NEWS */
+#natest {
+   height: 738px;
+   padding-top: 86px;
+}
+
+.latest-title {
+   height: 68px;
+   font-size: 45px;
+   line-height: 150%;
+   text-align: center;
+   color: #000000;
+   margin-bottom: 7px;
+}
+.latest-text {
+   height: 48px;
+   font-family: 'Gilroy-Regular';
+   font-size: 16px;
+   line-height: 150%;
+   text-align: center;
+   color: #666666;
+   margin-bottom: 45px;
+}
+
+.news-content {
+   margin-top: 40px;
+   margin-left: 10px;
+}
+.latest-text span {
+   text-align: center;
+}
+
+.how-market {
+   display: inline-flex;
+   width: 385px;
+   height: 330px;
+   border: 2px solid #EEEEEE;
+}
+
+.news-title {
+   height: 72px;
+   font-family: 'Gilroy-Bold';
+   font-size: 18px;
+   line-height: 150%;
+   color: rgba(0, 0, 0, 0.3);
+   margin-bottom: 15px;
+}
+.news-list {
+   list-style: none;
+   margin-bottom: 22px;
+}
+.news-text {
+   width: 340px;
+   height: 65px;
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   color: rgba(102, 102, 102, 0.5);
+   margin-bottom: 26px;
+}
+.news-text1 {
+   font-family: 'Gilroy-Medium';
+   font-size: 11px;
+   line-height: 150%;
+   color: rgba(136, 136, 136, 0.5);
+   margin-right: 15px;
+}
+.news-color {
+   width: 64px;
+   height: 17px;
+   font-family: 'Gilroy-Bold';
+   font-size: 11px;
+   line-height: 150%;
+   color: rgba(242, 88, 34, 0.5);
+}
+
+.how-box {
+   display: inline-flex;
+   width: 490px;
+   height: 330px;
+   box-shadow: 15px 25px 60px -10px rgba(0, 0, 0, 0.1);
+}
+.how-content {
+   margin-top: 40px;
+   margin-left: 10px;
+}
+.how-title {
+   width: 324px;
+   height: 72px;
+   font-family: 'Gilroy-Bold';
+   font-size: 18px;
+   line-height: 150%;
+   color: #000000;
+   margin-bottom: 15px;
+}
+.how-list {
+   list-style: none;
+   margin-bottom: 22px;
+}
+.how-text {
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   color: #666666;
+   margin-bottom: 26px;
+}
+.how-color {
+   width: 64px;
+   height: 17px;
+   font-family: 'Gilroy-Bold';
+   font-size: 11px;
+   line-height: 150%;
+   color: #F25822;
+}
+
+.market-box {
+   display: inline-flex;
+   height: 330px;
+   border: 2px solid #EEEEEE;
+   /*white-space: pre;*/
+}
+.market-content {
+   margin-top: 40px;
+   margin-left: 17px;
+}
+.market-title {
+   font-family: 'Gilroy-Bold';
+   font-size: 18px;
+   line-height: 150%;
+   color: rgba(0, 0, 0, 0.3);
+   margin-bottom: 15px;
+}
+.market-list {
+   list-style: none;
+   margin-bottom: 22px;
+}
+.market-text {
+   font-family: 'Gilroy-Medium';
+   font-size: 13px;
+   line-height: 150%;
+   color: rgba(102, 102, 102, 0.5);
+   margin-bottom: 26px;
+}
+.market-color {
+   font-family: 'Gilroy-Bold';
+   font-size: 11px;
+   line-height: 150%;
+   color: rgba(242, 88, 34, 0.5);
+}
